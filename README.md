@@ -4,10 +4,6 @@ This script is designed to recursively find and delete all `node_modules` direct
 
 ## How to Use
 
-```bash
-chmod +x nmk.sh
-```
-
 ### Step 1: Clone the Repository
 
 To get started, clone this repository to your local machine:
